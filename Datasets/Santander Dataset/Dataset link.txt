@@ -1,1 +1,6 @@
 
+The Size is Something 60MB.
+
+You can directly download from Kaggle,
+
+https://www.kaggle.com/code/ayakhaled2/santander-customer-satisfaction/input?select=train.csv
